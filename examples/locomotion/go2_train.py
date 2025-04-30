@@ -16,7 +16,7 @@ except (metadata.PackageNotFoundError, ImportError) as e:
 from rsl_rl.runners import OnPolicyRunner
 
 import genesis as gs
-#gs.init(backend=gs.cpu)
+
 
 from go2_env import Go2Env
 
