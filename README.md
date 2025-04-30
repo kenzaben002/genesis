@@ -45,3 +45,6 @@ Vérifiez aussi l’architecture de votre GPU :
  **PyTorch** : 2.7.0+cu118  
 
 
+### rl training du go2
+Lors de l’entraînement d’une politique de maintien en position sur le Unitree Go2, Genesis a mis environ 3600 s (≈ 1 h) en exécution CPU (Intel i9-10900K), contre seulement 88,5 s en exécution GPU (RTX 3060) – soit un gain de temps d’un facteur ~40× grâce à l’accélération GPU.
+
