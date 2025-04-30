@@ -1,5 +1,4 @@
-
-## Citation
+Citation
 
 If you use Genesis in your research, please consider citing:
 
@@ -12,7 +11,7 @@ If you use Genesis in your research, please consider citing:
   url = {https://github.com/Genesis-Embodied-AI/Genesis}
 }
 
-# genesis
+## genesis
 Exploring and testing GENSIS IA to gain a deeper understanding of its capabilities in robotics simulation and reinforcement learning
 -----
 J'ai testé l'installation sur Linux et Windows.
@@ -38,4 +37,14 @@ Vérifiez aussi l’architecture de votre GPU :
 - Elle doit avoir un Compute Capability  (C.C) supérieur ou égal à 3.7
 - Certaines architectures ne sont plus supportées par PyTorch
   Exemple : la NVIDIA GeForce GTX 780 a un C.C de 3.5 et n’est donc **non compatible**
+
+#######Environnement de mon système
+ **Python** : 3.12.3  
+ **OS** : Ubuntu 24.04.2 LTS   
+ **CPU** : Intel(R) Core(TM) i9-10900K CPU @ 3.70 GHz 
+ **GPU** : NVIDIA GeForce RTX 3060  
+  **Driver** : 550.120  
+  **CUDA** : 12.4  
+ **PyTorch** : 2.7.0+cu118  
+
 
