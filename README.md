@@ -1,7 +1,4 @@
 Citation
-
-If you use Genesis in your research, please consider citing:
-
 ```bibtex
 @software{Genesis,
   author = {Genesis Authors},
